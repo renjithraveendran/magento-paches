@@ -1,1 +1,1 @@
-# magento-paches-source to destination remove
+# magento-paches-source to destination test
