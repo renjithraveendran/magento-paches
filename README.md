@@ -1,1 +1,1 @@
-# magento-paches-source read
+# magento-paches-source to destination
